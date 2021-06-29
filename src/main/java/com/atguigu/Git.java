@@ -18,5 +18,6 @@ public class Git {
         System.out.println("hot-fix test");
         System.out.println("local test");
         System.out.println("github test");
+        System.out.println("local test2");
     }
 }
